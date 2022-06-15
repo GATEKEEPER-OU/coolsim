@@ -1,0 +1,21 @@
+{
+  "name": "coolsim",
+  "version": "1.0.0",
+  "description": "Community Simulator",
+  "main": "index.js",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GATEKEEPER-OU/coolsim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GATEKEEPER-OU/coolsim/issues"
+  },
+  "homepage": "https://github.com/GATEKEEPER-OU/coolsim#readme"
+}
