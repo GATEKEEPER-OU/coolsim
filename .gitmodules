@@ -1,24 +1,24 @@
 [submodule "coolsim-viewer"]
 	path = viewer
-	url = git@github.com:GATEKEEPER-OU/coolsim-viewer.git
+	url = ../coolsim-viewer.git
 [submodule "coolsim-store"]
 	path = store
-	url = git@github.com:GATEKEEPER-OU/coolsim-store.git
+	url = ../coolsim-store.git
 [submodule "coolsim-configuration"]
 	path = configuration
-	url = git@github.com:GATEKEEPER-OU/coolsim-configuration.git
+	url = ../coolsim-configuration.git
 [submodule "coolsim-agentmanager"]
 	path = agent-manager
-	url = git@github.com:GATEKEEPER-OU/coolsim-agentmanager.git
+	url = ../coolsim-agentmanager.git
 [submodule "coolsim-simulator"]
 	path = simulator
-	url = git@github.com:GATEKEEPER-OU/coolsim-simulator.git
+	url = ../coolsim-simulator.git
 [submodule "coolsim-location"]
 	path = location
-	url = git@github.com:GATEKEEPER-OU/coolsim-location.git
+	url = ../coolsim-location.git
 [submodule "coolsim-device"]
 	path = device
-	url = git@github.com:GATEKEEPER-OU/coolsim-device.git
+	url = ../coolsim-device.git
 [submodule "coolsim-utilities"]
 	path = utilities
-	url = git@github.com:GATEKEEPER-OU/coolsim-utilities.git
+	url = ../coolsim-utilities.git
